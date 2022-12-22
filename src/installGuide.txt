@@ -1,0 +1,5 @@
+
+
+
+git clone --single-branch --branch react-mini https://github.com/srujana-7/react-boilerplate
+
